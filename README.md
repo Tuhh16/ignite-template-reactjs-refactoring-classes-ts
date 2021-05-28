@@ -8,6 +8,12 @@
  GoRestaurant é uma aplicação que é usada em um dos desafios do segundo modulo do Ignite da <a href="https://rocketseat.com.br/">Rocketseat</a>
 </p>
 
+## Veja a aplicação funcionando
+
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img title="Preview da página da aplicação" src="./src/assets/screenshot/goRestaurant.gif" width="600px" alt="Preview da página da aplicação" />
+</p>
+
 <h4 align="center">
 	🚧 Concluído 🚀 🚧
 </h4>
