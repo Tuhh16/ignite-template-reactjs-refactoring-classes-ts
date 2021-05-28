@@ -8,12 +8,6 @@
  GoRestaurant é uma aplicação que é usada em um dos desafios do segundo modulo do Ignite da <a href="https://rocketseat.com.br/">Rocketseat</a>
 </p>
 
-## Veja a aplicação funcionando
-
-<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img title="Preview da página da aplicação" src="./src/assets/screenshot/goRestaurant.gif" width="600px" alt="Preview da página da aplicação" />
-</p>
-
 <h4 align="center">
 	🚧 Concluído 🚀 🚧
 </h4>
@@ -23,6 +17,7 @@ Tabela de conteúdos
 <!--ts-->
    * [Sobre o projeto](#-sobre-o-projeto)
    * [Layout](#-layout)
+     * [Veja a aplicação funcionando](#veja-a-aplicação-funcionando)
      * [Web](#web)
    * [Como executar o projeto](#-como-executar-o-projeto)
    * [Tecnologias](#-tecnologias)
@@ -34,9 +29,15 @@ Tabela de conteúdos
 
 <p>O projeto é uma aplicação onde podemos adicionar novos pratos, editar ou remover eles e também deixar os pratos disponíveis ou não.</p>
 <p>O principal objetivo é realizar dois processos de migração: de Javascript para Typescript e de Class Components para Function Components.</p>
-<p>Clique aqui para o repositório usando Typescript e Function Components</p>
+<p><a href="https://github.com/Tuhh16/ignite-template-reactjs-refactoring-function-ts">Clique aqui</a> para o repositório usando Typescript e Function Components</p>
 
 ## 🎨 Layout
+
+### Veja a aplicação funcionando
+
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img title="Preview da página da aplicação" src="./src/assets/screenshot/goRestaurant.gif" width="600px" alt="Preview da página da aplicação" />
+</p>
 
 ### Web
 
